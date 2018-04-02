@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "387833933641",
+    "firebase_url": "https://misnotificaciones-6403b.firebaseio.com",
+    "project_id": "misnotificaciones-6403b",
+    "storage_bucket": "misnotificaciones-6403b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387833933641:android:9308735f06caafa8",
+        "android_client_info": {
+          "package_name": "com.todolistazure.onlinepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387833933641-cdnb1ldnbij4dage9sfs1g10vtbsaogv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlVEAftOS0O5tVm6eul2sqcoEdEH4xeGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
